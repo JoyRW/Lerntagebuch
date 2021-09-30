@@ -3,4 +3,17 @@ title: "Einführungsartikel"
 date: 2021-09-20
 ---
 
-Ich erwarte von diesem Kurs ...
+Entwurf
+
+Das hier ist der Auftaktartikel meines Lerntagebuchs, dass mit der Erklärung beginnt wo ich gestartet bin und welche Vorkenntnisse ich bereits mitbringe. Dies erläutere ich mit den beiden Fragen die in der Auftaktveranstaltung des Moduls BAIN in der Blockwoche in Chur bei der Vorstellungsrunde gestellt wurden:
+1.	Praxiserfahrungen: Hatten Sie bereits ausserhalb der Hochschule mit Bibliotheks- oder Archivsoftware zu tun?
+Ich arbeite seit etwas mehr als 3 Jahren in der Bibliothek der Pädagogischen Hochschule Graubünden (LINK EINFüGEN). Zuerst hatte ich dort ein Praktikum absolviert mittlerweile bin ich seit zwei Jahren fest angestellt im 50% Pensum. In dieser Zeit konnte ich zuerst das Bibliothekssystem ALEPH kennen lernen, im alltäglichen Gebrauch in der Bibliothek, als auch an einem Kurs für die Katalogisierung von Medien verschiedener Art.
+Da unsere Bibliothek beim NEBIS Verbund war und sich dieser wie viele andere dazu entschieden hat zu SLSP zu gehen lag es auch für uns nahe diesen Schritt zu gehen. Im letzten Jahr haben sich dann über 400 weiteren Bibliotheken dazu entschlossen SLSP (Swiss Library Service Plattform) beizutreten und die Plattform ging im Dezember 2020 live.
+Gearbeitet wird nun mit ALMA, welches Cloud basiert ist und bei dem wir mittels Lernvideos und Skripts an die Benutzung herangeführt wurden und danach in einer Sandbox testen konnten. Ich finde das Programm sehr herausfordernd da nicht immer alles ganz klar ist und einwandfrei funktioniert, sehe aber je länger je mehr auch Vorteile, vor allem im Bereich der gemeinsamen Vernetzung. Daten können so viel leichter geteilt und gemeinsam genutzt werden, sowie der Austausch unter den Mitarbeitern und den Bibliotheken wird gefördert.
+Mit Archivsoftware im eigentlichen Sinne hatte ich bis jetzt leider nicht zu tun, obwohl ich bei uns einen Teil des Zwischenarchivs betreue. Wir führen unser Zwischenarchiv jedoch neu in SharePoint, weil wir es bereits als Intranet nutzen, und wir so den Vorteil haben das die Mitarbeiter bereits mit dem System vertraut sind. Es hat uns jedoch vor einige Herausforderungen gestellt es so einzurichten das damit auch langfristig Dokumente aufbewahrt und archiviert werden können.
+
+2.	Motivation / Erwartungshaltung: Was erwarten Sie persönlich von diesem Kurs?
+Meine Motivation für dieses Modul ist es ein besseres Verständnis zur Bibliotheks- und Archivsinformatik zu erhalten.
+Meine Erwartungshaltung ist das ich in weitere Systeme Einblick erhalte und auch den Zusammenhang oder Ähnlichkeiten sehe, aber auch Unterschiede. Es würde mich ausserdem sehr freuen von den unterschiedlichen Erfahrungen der Teilnehmer mit solchen Systemen durch den gemeinsamen Austausch profitieren zu können. Ich hoffe auch, dass es einen guten Überblick über die verschiedenen Systeme gibt und was im Hintergrund solcher abläuft. Oft nervt man sich nämlich nur darüber das etwas nicht geht oder nicht funktioniert in einem System, kann jedoch nicht immer nachvollziehen anhand von Fehlermeldungen was das Problem sein könnte. Solche Hintergrundinformationen und Einblicke würden mich sehr interessieren.
+
+Ich freue mich bereits auf die nächsten Unterrichtseinheiten und bin ebenfalls gespannt wie das weitere führen des Lerntagebuchs läuft. Ich finde es auf jeden Fall eine sehr gute Idee, sich mit den Lernpaketen nach dem Unterricht nochmals eigenständig auseinander zu setzen und somit auch zu sehen was gelingt mir schon gut, was habe ich verstanden und wo muss ich nochmals ansetzen oder allenfalls auch nachfragen.
