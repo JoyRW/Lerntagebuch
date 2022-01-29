@@ -3,11 +3,11 @@ title: "Einführungsartikel"
 date: 2021-16-09
 ---
 
-Liebes Tagebuch, 
-heute habe ich das Modul BAIN gestartet, und als ersten Eintrag gebe ich dir eine Erklärung wo ich gestartet bin und welche Vorkenntnisse ich bereits mitbringe. 
+**Liebes Tagebuch,**
+heute habe ich das Modul **BAIN** gestartet, und als ersten Eintrag gebe ich dir eine Erklärung wo ich gestartet bin und welche Vorkenntnisse ich bereits mitbringe. 
 Dies erläutere ich mit den beiden Fragen die in der Auftaktveranstaltung des Moduls BAIN in der Blockwoche in Chur bei der Vorstellungsrunde gestellt wurden:
 
-1.	Praxiserfahrungen: Hatten Sie bereits ausserhalb der Hochschule mit Bibliotheks- oder Archivsoftware zu tun?
+**1.	Praxiserfahrungen: Hatten Sie bereits ausserhalb der Hochschule mit Bibliotheks- oder Archivsoftware zu tun?**
 
 Ich arbeite seit etwas mehr als 3 Jahren in der Bibliothek der Pädagogischen Hochschule Graubünden (https://phgr.ch/campus/bibliothek/). 
 Zuerst hatte ich dort ein Praktikum absolviert, mittlerweile bin ich aber seit etwas mehr alsczwei Jahren fest angestellt im 50% Pensum. 
@@ -21,7 +21,7 @@ Mit Archivsoftware im eigentlichen Sinne hatte ich bis jetzt leider nicht so vie
 Wir führen unser Zwischenarchiv jedoch neu in SharePoint, weil es bereits als Intranet genutzt wird und sich dort die laufenden Ablegen befinden, und wir so den Vorteil haben das die Mitarbeiter bereits mit dem System vertraut sind.
 Es hat uns jedoch vor einige Herausforderungen gestellt es so einzurichten, dass damit auch langfristig Dokumente aufbewahrt und archiviert werden können.
 
-2.	Motivation / Erwartungshaltung: Was erwarten Sie persönlich von diesem Kurs?
+**2.	Motivation / Erwartungshaltung: Was erwarten Sie persönlich von diesem Kurs?**
 
 Meine Motivation für dieses Modul ist es, ein besseres Verständnis über Bibliotheks- und Archivinformatik zu erhalten.
 Meine Erwartungshaltung ist, dass ich in weitere Systeme Einblick erhalte und auch den Zusammenhang oder Ähnlichkeiten sehe, aber auch die auftretenden Unterschiede.
