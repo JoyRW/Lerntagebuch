@@ -1,4 +1,9 @@
-Hey mein Tagebuch, da geht es auch schon weiter mit meinem Eintrag zur ersten Unterrichtseinheit!
+---
+title: "Tag 1 - Technische Grundlagen"
+date: 2021-16-09
+---
+
+**Hey mein Tagebuch,** da geht es auch schon weiter mit meinem Eintrag zur ersten Unterrichtseinheit!
 
 Wir haben an unserer ersten Modulveranstaltung nebst einigen formalen Angaben wie den Ablauf des Moduls,
 die Vorstellung des Lerntagebuchs und eine Vorstellungsrunde der Dozenten sowie den Studierenden, auch gleich schon mit der Einrichtung der Arbeitsumgebung begonnen.
