@@ -1,5 +1,9 @@
+---
+title: "Tag 9 - Linked Data"
+date: 2022-01-13
+---
 
-Liebes Tagebuch, nun nach einer längeren Pause, es waren Winterferien, hatten wir also die letzte Unterrichtseinheit.
+**Liebes Tagebuch,** nun nach einer längeren Pause, es waren Winterferien, hatten wir also die letzte Unterrichtseinheit.
 Als Einstieg haben wir uns nochmals kurz mit den Suchmaschinen beschäftigt, nämlich mit den Marktsystemen (https://americanlibrariesmagazine.org/2020/05/01/2020-library-systems-report/). Der Marktführer ist Ex Libris mit Primo, welcher ja auch von SLSP genutzt wird. Alternativen dazu sind WorldCat Discovery von OCLC und EDS von EBSCO. Discovery bestehen aus mindestens zwei Komponenten, der Software und den Daten.
 Bei SLSP wird wie erwähnt Produkte von Ex Libris genutzt, ALMA und dazu das Discovery-System Primo VE. Je nach Einstieg in swisscovery wird eine andere Oberfläche angezeigt, steigt man zum Beispiel über https://swisscovery.slsp.ch/discovery/search?vid=41SLSP_NETWORK:VU1_UNION ein, erhält man diese Ansicht
  
