@@ -1,3 +1,8 @@
+---
+title: "Tag 7 - Metadaten modellieren und Schnittstellen nutzen 2"
+date: 2021-12-03
+---
+
 
 Liebes Tagebuch, ich also heute auch schon wieder :-) zum zweiten Teil von Metadaten modellieren und Schnittstellen nutzen.
 
