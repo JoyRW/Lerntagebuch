@@ -13,9 +13,12 @@ Dieses Modell von BIBFRAME ist als RDF-Ontologie dargestellt.
 Wir haben dann eine Übung gemacht in der wir **MARC21** mit **Dublin Core** verglichen haben. Dublin Core ist ein Standard, der als kleinster gemeinsamer Nenner gilt. Über die SRU-Schnittstelle von Swisscovery haben wir die Daten einmal je Format geladen um sie zu vergleichen. Über die SRU-Schnittstelle wurde noch nichts erklärt, das folgt aber noch in einer anderen Unterrichtssequenz.
 
 Hier zur Veranschaulichung ein Ausschnitt des **MARC21** Datensatzes:
-![image](https://user-images.githubusercontent.com/90834675/151668792-1e7d73cc-ff9c-4645-8de5-1310b4deb2e2.png)
+
+![image](https://user-images.githubusercontent.com/90834675/151669069-aeabb4e8-f82b-4825-8008-1662e5bb95f5.png)
+
 
 Und hier des **Dublin Core** Datensatzes:
+
 ![image](https://user-images.githubusercontent.com/90834675/151668821-f4c78ea7-87e0-4372-b370-8c678844fdf0.png)
 
 
