@@ -1,3 +1,8 @@
+---
+title: "Tag 6 - Metadaten modellieren und Schnittstellen nutzen"
+date: 2021-12-02
+---
+
 Salü liebes Tagebuch, 
 wir sehen uns heute und morgen gleich nochmals um noch den Ersatztermin nachzuholen, mach dich also bereit für eine Ladung neue Informationen.
 Das Hauptthema dieses Eintrages werden Metadaten sein. Um auf die Übersicht im Schaubild zu kommen,
