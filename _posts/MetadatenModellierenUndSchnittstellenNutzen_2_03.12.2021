@@ -1,0 +1,30 @@
+
+Liebes Tagebuch, ich also heute auch schon wieder :-) zum zweiten Teil von Metadaten modellieren und Schnittstellen nutzen.
+
+Heute haben wir eine Einführung in OpenRefine bekommen. Die grafische Oberfläche ähnelt einer klassischen Tabellenverarbeitungssoftware. Benutzen kann man OpenRefine um die Exploration von Datenlieferungen zu machen. Die Vereinheitlichung und Bereinigung, für den Abgleich mit Normdaten in Wikidata, GND und VIAF. Über eine Schnittstelle, zum Beispiel zur Gemeinsamen Normdatei (GND) kann man auch Daten anreichern, beispielsweise können so Personendaten abgeglichen werden. Dieser Abgleich war mir bereits aus der praktischen Arbeit beim Katalogisieren bekannt, es war mir aber wie nicht ganz bewusst das man das auch mit anderen Daten nebst Bibliotheksdatensätzen machen kann. 
+Wichtig zu wissen ist das OpenRefine in der Regel lokal auf dem Computer installiert wird, wird aber trotzdem über den Browser bedient. Wird nicht so oft bei Anwendungssoftware eingesetzt, was etwas irritierend sein kann. 
+
+ 
+Ebenfalls interessant war die Statistik zu den Anwender:innen von OpenRefine, in der man sehen kann dass die Software nicht nur im Bibliotheksbereich verwendung findet. Solche Auflistungen finde ich immer deshalb spannend, weil ich mir vor dem Studium gar nicht vorstellen konnte, oder es auch einfach nicht wusste, dass es eigentlich so viele Bereiche gibt in der solche Informationswissenschaftliche Themen mithineinspielen. Oftmals denkt man da wirklich erst einmal an Bibliotheken und Archive und nicht unbedingt an beispielsweise Datenjournalismus als Anwendungsbereich. 
+
+OpenRefine unterstützt mehrere Formate, besonders geeignet ist es für tabellarische Daten wie CSV, XLS und TSV. Flaches XML wie MARCXML oder JSON gehen auch noch, komplexeres XML wie EAD ist dann nur mit Zusatztools möglich. 
+
+Wir haben dann nach der Installation von OpenRefine eine Vorführung bekommen, bei der wir auch gleich mitmachen konnten und haben danach noch kleine Fingerübungen gemacht haben. Interessant fand ich hier das Arbeiten über die Textfacetten.
+ 
+Irgendwie finde ich es so angenehmer und logischer wenn ich über solche Möglichkeiten arbeiten kann. Bei Befehlen in Komandozeilen und dergleichen fühle ich mich immer etwas verloren im Gegensatz dazu. Auch die Ansicht des Ergebnisses dann auf der linken Seite finde ich gut, es hat für mich ein bisschen etwas von einer Trefferliste in einem Katalog, anhand derer ich die gestellten Fragen beantworten konnte.
+
+Das Ziel der Reconciliation ist über die ISSN Informationen zur Zeitschrift zu ergänzen. Angeschaut haben wir uns das, weil es ein besonderes Feature von OpenRefine ist. Die ISSN (https://de.wikipedia.org/wiki/Internationale_Standardnummer_f%C3%BCr_fortlaufende_Sammelwerke) ist der Identifikator der Zeitschrift, mit dessen Hilfe man diese eindeutig zuweisen kann. In unserem Beispiel mit Artikeln, wollten wir zusätzlich zum Titel und Publisher den wir dort bereits angezeigt bekommen, noch mehr Informationen herausfinden und ergänzen. Im Beispiel haben wir das durch die Webseite der Zeitschrift ergänzt um das Grundprinzip aufzuzeigen. 
+ 
+Über eine Extraspalte, die wir über eine bereits bestehende geholt haben, können wir so auf diesen Abgleich kommen. In OpenRefine gibt es nicht die Möglichkeit wie bei Excel einfach eine neue Spalte einzufügen, sondern es geht immer darum die vorhandenen Daten zu verändern. Diese Expression zu bestimmen fand ich dann schon etwas schwieriger. Die Variable „value“ ist wie bereits vorgegeben als Standardwert, und mit dem . und nachfolgend die Funktion die man möchte, in diesem Fall „split“. Funktionen werden immer Klammern am Ende geschrieben.
+ 
+Innerhalb der Klammer wird dann noch das Trennzeichen bestimmt
+ 
+In eckiger Klammer kann man dann noch den Wert bei dem begonnen wird festlegen
+ 
+Wenn alles richtig gemacht ist erscheint dann die neue Spalte, in diesem Fall mit dem Zeitschriften Namen.
+ 
+
+Es war sehr spannend so etwas auszuprobieren aber für mich die Eingabe dann doch etwas zu technisch, nur die Facettenfilterung hätte mir gereicht. Vielleicht mit dem Handbuch dazu würde es gehen, ich finde es aber schon recht komplex.
+
+Das war alles für heute liebes Tagebuch, wir sehen uns in knapp zwei Wochen wieder, bevor es dann in die Weihnachtsferienpause geht und der letzet Unterricht im Januar ansteht. Bis bald also,
+Joy
