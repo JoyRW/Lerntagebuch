@@ -1,4 +1,9 @@
-Liebes Lerntagebuch, 
+---
+title: "Tag 4 - Funktion und Aufbau von Archivsystemen"
+date: 2021-11-04
+---
+
+**Liebes Lerntagebuch, **
 heute wird es spannend, denn es war nicht nur regulärer Unterricht, sondern auch noch ein Gastreferat zu ALMA. Dieses haben Charlotte Frauchiger und Selina Hodel, von der Fachhochschule Nordwestschweiz, gehalten. Da ich in einer Bibliothek arbeite die zu SLSP gehört ist mir das neue Bibliothekssystem ALMA bekannt und ich arbeite auch damit. Ich fand es trotzdem spannend einmal eine andere Perspektive zu sehen und auch etwas von Personen zu hören die sich um einiges intensiver damit auseinandersetzen, als die gewöhnlichen Nutzer. Deswegen werde ich hier nun ein paar spannende Ausschnitte, wie ich finde, aus ALMA zeigen:
 
 Das Bibliothekssystem ALMA ist ein Cloudgestütztes Bibliothekssystem von Ex Libris, diese betreuen es und machen auch monatliche Releases.
@@ -6,11 +11,11 @@ Einer der grossen Vorteile von ALMA gegenüber anderen Systemen ist, ist dass es
 
  
 
-Zur Topologie von ALMA, wie man oben auf dem Bild sieht gibt es drei Zonen, dass muss man sich wie bewusst sein um die Arbeitsumgebung richtig einzuschätzen und zu verwenden. Wobei die Gemeinschaftszone hierarchisch gesehen die höchste Zone ist und von Ex Libris selber verwaltet wird. Die Netzwerkzone ist so gesehen der Verbundkatalog von SLSP. In der Institutionszone befinden sich dann die Institutionen, am Beispiel aus dem Vortrag ist dort die FHNW mit ihren verschiedenen Bibliotheken. Es gibt aber auch IZs wie zum Beispiel die FHGR die mit den OST Fachhochschulen eine IZ bilden, oder die PHGR, an der ich arbeite, die mit anderen kleineren Spezialbibliotheken in einer IZ ist.
+Zur **Topologie von ALMA**, wie man oben auf dem Bild sieht gibt es drei Zonen, dass muss man sich wie bewusst sein um die Arbeitsumgebung richtig einzuschätzen und zu verwenden. Wobei die Gemeinschaftszone hierarchisch gesehen die höchste Zone ist und von Ex Libris selber verwaltet wird. Die Netzwerkzone ist so gesehen der Verbundkatalog von SLSP. In der Institutionszone befinden sich dann die Institutionen, am Beispiel aus dem Vortrag ist dort die FHNW mit ihren verschiedenen Bibliotheken. Es gibt aber auch IZs wie zum Beispiel die FHGR die mit den OST Fachhochschulen eine IZ bilden, oder die PHGR, an der ich arbeite, die mit anderen kleineren Spezialbibliotheken in einer IZ ist.
 
 Um die unterschiede dieser Topologie zu zeigen habe ich hier auch noch einen kleinen Ausschnitt aus ALMA:
  
-Wenn ich beispielsweise ein Buch aufrufen möchte um daran zu arbeiten befinde ich mich zuerst in der Institutionszone (IZ). Wenn ich aber sehen möchte ob noch andere Bibliotheken dieses Buch im Bestand haben, kann ich in die Netzwerkzone, in der alle Bibliotheken von SLSP sind, wechseln.
+Wenn ich beispielsweise ein Buch aufrufen möchte um daran zu arbeiten befinde ich mich zuerst in der **Institutionszone (IZ)**. Wenn ich aber sehen möchte ob noch andere Bibliotheken dieses Buch im Bestand haben, kann ich in die **Netzwerkzone**, in der alle Bibliotheken von SLSP sind, wechseln.
  
 Hier sehe ich dann wer sonst noch dran hängt. Für mich war das die letzten Wochen vor allem dafür wichtig, um zu sehen ob von veralteten Exemplaren nur noch wir Bestände haben, oder auch noch andere Bibliotheken, da wir ein grösseres Aussonderungsprojekt am laufen haben und ich dann nicht nur unser Exemplar löschen kann, sondern auch den Datensatz wenn es das letzte ist. 
 Hier sieht man gut wie viel mehr das jetzt alles zusammenhängt und ich bin gespannt wie sich das noch entwickelt und wie das auch weiter genutzt werden kann.
