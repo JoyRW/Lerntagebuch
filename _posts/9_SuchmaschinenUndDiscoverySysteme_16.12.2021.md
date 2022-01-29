@@ -1,4 +1,9 @@
-Hallo Tagebuch, liest man sich nach knapp zwei Wochen auch wieder. Heute geht es um das Thema Suchmaschinen und Discovery-Systeme.
+---
+title: "Tag 8 - Suchmaschinen und Discovery-Systeme"
+date: 2021-12-16
+---
+
+**Hallo Tagebuch,** liest man sich nach knapp zwei Wochen auch wieder. Heute geht es um das Thema Suchmaschinen und Discovery-Systeme.
 Ein Punkt davon war es bis zur heutigen Unterrichtseinheit VuFind zu installieren und zu Konfigurieren. Auf der Internetseite von VuFind kann man sich noch genauer einlesen (https://vufind.org).  Oder auch einen Blick in die Weltweite VuFind Community werfen ( https://vufind.org/wiki/community:installations).
 
 Solr ist die eigentliche Suchmaschine die im Katalog VuFind drinsteckt. Solr ist quasi einer von zwei Industriestandards im Bereich der Suchmaschinentechnologie, die Konkurrenz davon ist Elasticserach. Beide sind OpenSource-Systeme. Spannend fand ich hier die Anmerkung das eigentlich alle grossen Suchwebseite ausser Google, mit einem dieser beiden Technologien funktioniert. Das hat mir auch so ein bisschen aufgezeigt wie gross so eine Technologie sein kann, und in welchen Bereichen verbreitet. Beide haben eine ähnliche Funktionsweise, diese basiert darauf das die Suchmaschinen einen sogenannten Index aufbauen, die Daten werden also in einer sehr effinzienten Form abgelegt, so dass Gleichheiten, Identitäten von Daten erkennbar sind, dass man eine Suche darüber sehr einfach machen kann. Dazu braucht es ein Schema in dem die Daten abgelegt werden können. Dieses Schema wiederum legt fest welche Felder der Index unterscheiden kann. Ebenfalls wird festgelegt welche Datentypen in den Feldern erlaubt sind.
