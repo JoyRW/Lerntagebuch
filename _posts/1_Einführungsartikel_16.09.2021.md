@@ -1,3 +1,8 @@
+---
+title: "Einführungsartikel"
+date: 2021-16-09
+---
+
 Liebes Tagebuch, 
 heute habe ich das Modul BAIN gestartet, und als ersten Eintrag gebe ich dir eine Erklärung wo ich gestartet bin und welche Vorkenntnisse ich bereits mitbringe. 
 Dies erläutere ich mit den beiden Fragen die in der Auftaktveranstaltung des Moduls BAIN in der Blockwoche in Chur bei der Vorstellungsrunde gestellt wurden:
