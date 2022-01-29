@@ -1,4 +1,9 @@
-Liebes Lerntagebuch, das ist leider schon der letzte Eintrag!
+---
+title: "Abschlussartikel"
+date: 2022.01.13
+---
+
+**Liebes Lerntagebuch,** das ist leider schon der letzte Eintrag!
 Es war ein spannendes Semester und BAIN ein interessantes Modul davon. Durch die vielen anderen spannenden, aber auch zeitaufwändigen Module war ich hier leider manchmal etwas in Verzug und konnte nicht immer alles so ausführlich testen und darin stöbern wie ich es mir gewünscht hätte. Aber ich habe ja nun die Unterlagen und die Inputs aus dem Unterricht und kann mich somit jederzeit noch ein wenig vertiefen oder mich mit den einzelnen Themen auseinandersetzen.
 Ich fand den Aufbau des Moduls gut, durch den Start mit der Bibliothekssoftware Koha. Es war spannend einmal noch eine andere Software als ALEPH und ALMA ausprobieren zu können. Die Regeln des Katalogisierens ändern sich ja nicht, aber die Umgebung und Handhabung variiert sehr. Was mir im Bibliotheksbereich ebenfalls gut gefallen hat, war der Gastvortrag über SLSP. Es war spannend von zwei Personen die sich sehr intensiv damit beschäftigen etwas über das ganze System zu hören, auch wenn man selber in einer Bibliothek arbeitet die zu SLSP gehört.
 Der Einblick in das Archivsystem ArchivesSpace hat mir gut gefallen um erste Eindrücke zu sammeln. Leider konnte ich bis jetzt in meiner Beruflichen Tätigkeit und auch im Praktikum noch nicht direkt mit einem Archivsystem arbeiten, weshalb ich mich besonders gefreut habe diese Dinge auszuprobieren. Um hier allerdings wirklich ein bisschen mehr rumzupröblen, hat mir dann leider die Zeit gefehlt. 
