@@ -1,6 +1,11 @@
-Hallo mein Tagebuch!!! 
+---
+title: "Tag 3 - Funktion und Aufbau von Archivsystemen"
+date: 2021-10-07
+---
 
-Heute war schon der dritte Unterrichtsblock, in dem wir vor allem mit Koha beschäftigt waren.
+**Hallo mein Tagebuch!!! **
+
+Heute war schon der dritte Unterrichtsblock, in dem wir vor allem mit **Koha** beschäftigt waren.
 Wir haben ja letztes Mal bereits mit Koha begonnen und im Unterricht auch mit der Installation begonnen. Mit dem zur Verfügung gestellten Tutorial ging es dann auch zu Hause den Rest noch selber zu machen. Interessant waren die beiden Inputs am Anfang das es ein bekanntes Problem ist das es manchmal nicht mehr aufrufbar ist. Genau das hatte ich nämlich am Unterrichtsmorgen und dachte vielleicht hätte ich etwas doch nicht richtig abgeschlossen. Mit dem Neustart von Koha mittels:
 sudo systemctl restart koha-common
 ging es dann wieder einwandfrei weiter. Gut zu wissen war dann auch noch das man Koha zurücksetzen kann falls man falsche Konfigurationen macht.
@@ -13,7 +18,7 @@ Weiter ging der Unterricht mit der Übungseinheit in der wir Kapitel 2 und 3 des
 -	Evtl. Sprache
 Diese Liste lässt sich natürlich beliebig erweitern, wie aber auch im Tutorial erwähnt wollen wir es für die Übungen eher einfach machen. Diese Daten nennt man auch Felder, wobei wir wieder bei MARC21 angelangt wären, welches wir schon in einer anderen Unterrichtseinheit nochmals angeschaut haben. MARC21 ist ein Standard der unter anderem in Koha verwendet wird.
 
-Als kleiner Einschub:
+**Als kleiner Einschub:**
 MARC (Machine-Readable Cataloging) ist ein bibliografisches Datenformat, es geht also darum das der Datensatz von einem Computer gelesen werden kann. 
 
 Weiter möchte ich eigentlich gar nicht auf MARC21 eingehen, auch wenn es natürlich essentiell ist für die tägliche Arbeit in der Bibliothek. Ich verlinke dir aber hier gerne noch eine Übersicht der MARC21-Felder :  https://www.loc.gov/marc/bibliographic/
