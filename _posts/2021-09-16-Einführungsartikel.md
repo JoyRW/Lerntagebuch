@@ -8,7 +8,7 @@ heute habe ich das Modul **BAIN** gestartet, und als ersten Eintrag gebe ich dir
 
 **1.	Praxiserfahrungen: Hatten Sie bereits ausserhalb der Hochschule mit Bibliotheks- oder Archivsoftware zu tun?**
 
-Ich arbeite seit etwas mehr als 3 Jahren in der Bibliothek der Pädagogischen Hochschule Graubünden (https://phgr.ch/campus/bibliothek/). Zuerst hatte ich dort ein Praktikum absolviert, mittlerweile bin ich aber seit etwas mehr alsczwei Jahren fest angestellt im 50% Pensum. In dieser Zeit konnte ich zuerst das **Bibliothekssystem ALEPH** kennen lernen, im alltäglichen Gebrauch in der Bibliothek, als auch an einem Kurs für die Katalogisierung von Medien verschiedener Art.
+Ich arbeite seit etwas mehr als 3 Jahren in der [Bibliothek der Pädagogischen Hochschule Graubünden](https://phgr.ch/campus/bibliothek/). Zuerst hatte ich dort ein Praktikum absolviert, mittlerweile bin ich aber seit etwas mehr alsczwei Jahren fest angestellt im 50% Pensum. In dieser Zeit konnte ich zuerst das **Bibliothekssystem ALEPH** kennen lernen, im alltäglichen Gebrauch in der Bibliothek, als auch an einem Kurs für die Katalogisierung von Medien verschiedener Art.
 
 Da unsere Bibliothek beim NEBIS Verbund war und sich dieser, wie viele andere dazu entschieden hat sich **SLSP** anzuschliessen, lag es auch für uns nahe, diesen Schritt zu machen. Im letzten Jahr haben sich dann über 450 weitere Bibliotheken dazu entschlossen SLSP (Swiss Library Service Plattform) beizutreten und die Plattform ging am 7. Dezember 2020 live.
 
